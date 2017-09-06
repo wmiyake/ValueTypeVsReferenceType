@@ -1,0 +1,6 @@
+C:\Users\Wellington Miyake\source\repos\Estudo CSharpBasic\ValueTypeVsReferenceType\bin\Debug\ValueTypeVsReferenceType.exe
+C:\Users\Wellington Miyake\source\repos\Estudo CSharpBasic\ValueTypeVsReferenceType\bin\Debug\ValueTypeVsReferenceType.pdb
+C:\Users\Wellington Miyake\source\repos\Estudo CSharpBasic\ValueTypeVsReferenceType\obj\Debug\ValueTypeVsReferenceType.csprojResolveAssemblyReference.cache
+C:\Users\Wellington Miyake\source\repos\Estudo CSharpBasic\ValueTypeVsReferenceType\obj\Debug\ValueTypeVsReferenceType.csproj.CoreCompileInputs.cache
+C:\Users\Wellington Miyake\source\repos\Estudo CSharpBasic\ValueTypeVsReferenceType\obj\Debug\ValueTypeVsReferenceType.exe
+C:\Users\Wellington Miyake\source\repos\Estudo CSharpBasic\ValueTypeVsReferenceType\obj\Debug\ValueTypeVsReferenceType.pdb
